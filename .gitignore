@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+# Nunca subir fotos de referencia ni modelos
+ref/
+panels/
+models/
+*.onnx
